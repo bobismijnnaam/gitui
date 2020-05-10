@@ -15,6 +15,10 @@
 
 blazing fast terminal-ui for git written in rust
 
+This fork exists for the sole purpose of changing the left/down/up/right keys to h/j/k/l.
+It is intended to stay up-to-date with upstream gitui, but offers no guarantees whatsoever.
+Please head over to [the real repo](https://github.com/extrawurst/gitui/issues/14) if you have any comments or questions.
+
 ![](assets/demo.gif)
 
 # features
